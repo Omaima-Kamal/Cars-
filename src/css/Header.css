@@ -1,0 +1,25 @@
+.nav {
+  background-color: #222;
+}
+
+.navbar {
+  min-height: 70px;
+}
+
+.navbar .navbar-nav > li > Link {
+  color: #fff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > Link:hover,
+.navbar .navbar-nav > .active > Link:focus {
+  background-color: #e41b17;
+}
+
+.navbar .navbar-brand {
+  color: #f00;
+  font-size: 30px;
+  line-height: 40px;
+}

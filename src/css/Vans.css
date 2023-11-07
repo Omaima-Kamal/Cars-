@@ -1,0 +1,111 @@
+.vans-photo {
+  background-image: url(../assets/images/typeOfCars/vans/transit-pass1-1576777255.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 98%;
+  max-width: 100%;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.vans-photo h1 {
+  font-size: 60px;
+  color: #ccc;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.vans-container .vans-car {
+  padding: 5px;
+  margin: auto;
+}
+
+.honda-Odyssey {
+  background-color: #333;
+  border: 2px solid #ddd;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 40px 100px 0;
+  padding: 20px;
+}
+
+.honda-Odyssey h1,
+.toyota-sienna h1,
+.kia-carnival h1,
+.chrysler-pacifica h1,
+.ford-transit h1,
+.gmc-savana h1,
+.mercedes-benz-sprinter h1,
+.ram-proMaster h1,
+.chevrolet-express h1,
+.mercedes-benz-sprinter-2021 h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.honda-Odyssey p,
+.toyota-sienna p,
+.kia-carnival p,
+.chrysler-pacifica p,
+.ford-transit p,
+.gmc-savana p,
+.mercedes-benz-sprinter p,
+.ram-proMaster p,
+.chevrolet-express p,
+.mercedes-benz-sprinter-2021 p {
+  float: left;
+}
+
+.honda-Odyssey img,
+.toyota-sienna img,
+.kia-carnival img,
+.chrysler-pacifica img,
+.ford-transit img,
+.gmc-savana img,
+.mercedes-benz-sprinter img,
+.ram-proMaster img,
+.chevrolet-express img,
+.mercedes-benz-sprinter-2021 img {
+  float: right;
+  width: 500px;
+  height: 400px;
+  padding: 10px 10px;
+}
+
+.honda-Odyssey ul,
+.toyota-sienna ul,
+.kia-carnival ul,
+.chrysler-pacifica ul,
+.ford-transit ul,
+.gmc-savana ul,
+.mercedes-benz-sprinter ul,
+.ram-proMaster ul,
+.chevrolet-express ul,
+.mercedes-benz-sprinter-2021 ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.toyota-sienna,
+.kia-carnival,
+.chrysler-pacifica,
+.ford-transit,
+.gmc-savana,
+.mercedes-benz-sprinter,
+.ram-proMaster,
+.chevrolet-express,
+.mercedes-benz-sprinter-2021 {
+  background-color: #333;
+  border: 2px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 50px 100px;
+  padding: 20px;
+}

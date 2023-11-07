@@ -1,0 +1,81 @@
+.suv-container .car {
+  padding: 5px;
+  margin: auto;
+}
+
+.toyota-highlander-suv,
+.ford-escape-suv,
+.hyundai-palisade-suv,
+.kia-telluride-suv,
+.ford-explorer-suv,
+.subaru-outback-suv,
+.toyota-RAV4-suv,
+.tesla-model-y-suv,
+.volkswagen-atlas-cross-sport-suv,
+.mazda-cx-9-suv {
+  background-color: #333;
+  border: 2px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 1170px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.toyota-highlander-suv h1,
+.ford-escape-suv h1,
+.hyundai-palisade-suv h1,
+.kia-telluride-suv h1,
+.ford-explorer-suv h1,
+.subaru-outback-suv h1,
+.toyota-RAV4-suv h1,
+.tesla-model-y-suv h1,
+.volkswagen-atlas-cross-sport-suv h1,
+.mazda-cx-9-suv h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.toyota-highlander-suv img,
+.ford-escape-suv img,
+.hyundai-palisade-suv img,
+.kia-telluride-suv img,
+.ford-explorer-suv img,
+.subaru-outback-suv img,
+.toyota-RAV4-suv img,
+.tesla-model-y-suv img,
+.volkswagen-atlas-cross-sport-suv img,
+.mazda-cx-9-suv img {
+  float: center;
+  width: 500px;
+  height: 350px;
+  padding: 10px 5px 20px 20px;
+}
+
+.toyota-highlander-suv p,
+.ford-escape-suv p,
+.hyundai-palisade-suv p,
+.kia-telluride-suv p,
+.ford-explorer-suv p,
+.subaru-outback-suv p,
+.toyota-RAV4-suv p,
+.tesla-model-y-suv p,
+.volkswagen-atlas-cross-sport-suv p,
+.mazda-cx-9-suv p {
+  padding: 10px;
+}
+
+.toyota-highlander-suv ul,
+.ford-escape-suv ul,
+.hyundai-palisade-suv ul,
+.kia-telluride-suv ul,
+.ford-explorer-suv ul,
+.subaru-outback-suv ul,
+.toyota-RAV4-suv ul,
+.tesla-model-y-suv ul,
+.volkswagen-atlas-cross-sport-suv ul,
+.mazda-cx-9-suv ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,102 @@
+.mpv-photo {
+  background-image: url(../assets/images/typeOfCars/mpv/cc3ff0ce0b694c9e97bded7195273195.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 98%;
+  max-width: 100%;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.mpv-photo h1 {
+  font-size: 60px;
+  color: #ccc;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.mpv-container .mpv-car {
+  padding: 5px;
+  margin: auto;
+}
+
+.volkswagen-id-buzz,
+.volkswagen-touran-2023,
+.citroën-berlingo,
+.dacia-jogger,
+.volkswagen-ultivan,
+.ford-galaxy,
+.peugeot-rifter,
+.vauxhall-combo-life,
+.ford-S-max,
+.bmw-2-series-active-tourer {
+  background-color: #333;
+  border: 2px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 50px 100px;
+  padding: 20px;
+}
+
+.volkswagen-id-buzz h1,
+.volkswagen-touran-2023 h1,
+.citroën-berlingo h1,
+.dacia-jogger h1,
+.volkswagen-ultivan h1,
+.ford-galaxy h1,
+.h1eugeot-rifter h1,
+.vauxhall-combo-life h1,
+.ford-S-max h1,
+.bmw-2-series-active-tourer h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.volkswagen-id-buzz p,
+.volkswagen-touran-2023 p,
+.citroën-berlingo p,
+.dacia-jogger p,
+.volkswagen-ultivan p,
+.ford-galaxy p,
+.peugeot-rifter p,
+.vauxhall-combo-life p,
+.ford-S-max p,
+.bmw-2-series-active-tourer p {
+  float: left;
+}
+
+.volkswagen-id-buzz img,
+.volkswagen-touran-2023 img,
+.citroën-berlingo img,
+.dacia-jogger img,
+.volkswagen-ultivan img,
+.ford-galaxy img,
+.peugeot-rifter img,
+.vauxhall-combo-life img,
+.ford-S-max img,
+.bmw-2-series-active-tourer img {
+  float: right;
+  width: 500px;
+  height: 300px;
+  padding: 10px 10px;
+}
+
+.volkswagen-id-buzz ul,
+.volkswagen-touran-2023 ul,
+.citroën-berlingo ul,
+.dacia-jogger ul,
+.volkswagen-ultivan ul,
+.ford-galaxy ul,
+.peugeot-rifter ul,
+.vauxhall-combo-life ul,
+.ford-S-max ul,
+.bmw-2-series-active-tourer ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

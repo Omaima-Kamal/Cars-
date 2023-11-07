@@ -1,0 +1,24 @@
+.types-of-cars {
+  background: #111;
+  color: #aaa;
+  padding-top: 10px;
+}
+
+.types-of-cars .three-columns {
+  overflow: hidden;
+}
+
+h3 {
+  padding-top: 5px;
+}
+
+.types-of-cars .three-columns li {
+  width: 23%;
+  float: left;
+  padding: 20px 10px;
+}
+
+.types-of-cars .three-columns li a {
+  text-decoration: none;
+  color: #aaa;
+}

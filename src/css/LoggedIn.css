@@ -1,0 +1,64 @@
+.loggedIn-container {
+  font-family: Arial, Tahoma;
+  background-color: #333;
+  background-position: left;
+  margin: 0;
+  background-image: url(../assets/images/login/Cars-Desktop-Wallpaper.jpg);
+  background-size: cover;
+}
+
+.loggedIn-parent {
+  height: 80vh;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+  padding: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.loggedIn-parent .loggedIn-child {
+  border: 3px solid #f00;
+  padding: 50px;
+  margin: 50px;
+}
+
+.loggedIn-parent .loggedIn-child .log {
+  background-color: #f00;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+form {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 6px;
+  background-color: transparent;
+}
+
+.loggedIn {
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.forget {
+  margin: -15px 0 15px;
+  font-size: 0.9em;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.forget a {
+  color: #fff;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.forget a:hover {
+  text-decoration: underline;
+}

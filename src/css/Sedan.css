@@ -1,0 +1,111 @@
+.sedan-photo {
+  background-image: url(../assets/images/typeOfCars/sedan/2023-acura-integra-a-spec-2.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 98%;
+  max-width: 100%;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.sedan-photo h1 {
+  font-size: 60px;
+  color: #ccc;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.sedan-container .sedan-car {
+  padding: 5px;
+  margin: auto;
+}
+
+.kia-rio {
+  background-color: #333;
+  border: 2px solid #ddd;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 40px 100px 0;
+  padding: 20px;
+}
+
+.kia-rio h1,
+.nissan-versa h1,
+.mitsubishi-mirage h1,
+.honda-civic h1,
+.hyundai-elantra-2020 h1,
+.toyota-corolla h1,
+.nissan-sentra-2020 h1,
+.kia-forte-sedan h1,
+.mazda-mazda3 h1,
+.hyundai-sonata-sedan h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.kia-rio p,
+.nissan-versa p,
+.mitsubishi-mirage p,
+.honda-civic p,
+.hyundai-elantra-2020 p,
+.toyota-corolla p,
+.nissan-sentra-2020 p,
+.kia-forte-sedan p,
+.mazda-mazda3 p,
+.hyundai-sonata-sedan p {
+  float: left;
+}
+
+.kia-rio img,
+.nissan-versa img,
+.mitsubishi-mirage img,
+.honda-civic img,
+.hyundai-elantra-2020 img,
+.toyota-corolla img,
+.nissan-sentra-2020 img,
+.kia-forte-sedan img,
+.mazda-mazda3 img,
+.hyundai-sonata-sedan img {
+  float: right;
+  width: 500px;
+  height: 350px;
+  padding: 10px 10px;
+}
+
+.kia-rio ul,
+.nissan-versa ul,
+.mitsubishi-mirage ul,
+.honda-civic ul,
+.hyundai-elantra-2020 ul,
+.toyota-corolla ul,
+.nissan-sentra-2020 ul,
+.kia-forte-sedan ul,
+.mazda-mazda3 ul,
+.hyundai-sonata-sedan ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nissan-versa,
+.mitsubishi-mirage,
+.honda-civic,
+.hyundai-elantra-2020,
+.toyota-corolla,
+.kia-forte-sedan,
+.mazda-mazda3,
+.hyundai-sonata-sedan,
+.nissan-sentra-2020 {
+  background-color: #333;
+  border: 1px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 50px 100px;
+  padding: 20px;
+}

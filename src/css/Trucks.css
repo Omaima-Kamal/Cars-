@@ -1,0 +1,111 @@
+.trucks-photo {
+  background-image: url(../assets/images/typeOfCars/trucks/2021-chevrolet-colorado-zr2-103-1570573450.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 98%;
+  max-width: 100%;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 10px;
+}
+
+.trucks-photo h1 {
+  font-size: 60px;
+  color: #ccc;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.trucks-container .trucks-car {
+  padding: 5px;
+  margin: auto;
+}
+
+.ford-maverick-truck {
+  background-color: #333;
+  border: 2px solid #ddd;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 40px 100px 0;
+  padding: 20px;
+}
+
+.ford-maverick-truck h1,
+.hyundai-santa-cruz-truck h1,
+.chevrolet-colorado-truck h1,
+.honda-ridgeline-truck h1,
+.gmc-canyon-truck h1,
+.jeep-gladiator h1,
+.ford-ranger-truck h1,
+.toyota-tacoma-truck h1,
+.nissan-frontier-truck h1,
+.ford-F-150 h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.ford-maverick-truck p,
+.hyundai-santa-cruz-truck p,
+.chevrolet-colorado-truck p,
+.honda-ridgeline-truck p,
+.gmc-canyon-truck p,
+.jeep-gladiator p,
+.ford-ranger-truck p,
+.toyota-tacoma-truck p,
+.nissan-frontier-truck p,
+.ford-F-150 p {
+  float: left;
+}
+
+.ford-maverick-truck img,
+.hyundai-santa-cruz-truck img,
+.chevrolet-colorado-truck img,
+.honda-ridgeline-truck img,
+.gmc-canyon-truck img,
+.jeep-gladiator img,
+.ford-ranger-truck img,
+.toyota-tacoma-truck img,
+.nissan-frontier-truck img,
+.ford-F-150 img {
+  float: right;
+  width: 500px;
+  height: 350px;
+  padding: 10px 10px;
+}
+
+.ford-maverick-truck ul,
+.hyundai-santa-cruz-truck ul,
+.chevrolet-colorado-truck ul,
+.honda-ridgeline-truck ul,
+.gmc-canyon-truck ul,
+.jeep-gladiator ul,
+.ford-ranger-truck ul,
+.toyota-tacoma-truck ul,
+.nissan-frontier-truck ul,
+.ford-F-150 ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.hyundai-santa-cruz-truck,
+.chevrolet-colorado-truck,
+.honda-ridgeline-truck,
+.gmc-canyon-truck,
+.jeep-gladiator,
+.toyota-tacoma-truck,
+.nissan-frontier-truck,
+.ford-F-150,
+.ford-ranger-truck {
+  background-color: #333;
+  border: 2px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 200;
+  margin: 50px 100px;
+  padding: 20px;
+}

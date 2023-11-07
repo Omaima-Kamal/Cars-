@@ -1,0 +1,81 @@
+.coupe-container .coupe-car {
+  padding: 5px;
+  margin: auto;
+}
+
+.coupe-audi-a5,
+.coupe-bmw-4-series,
+.coupe-lexus-lc,
+.coupe-honda-civic,
+.coupe-audi-s5,
+.coupe-chevrolet-corvette,
+.coupe-bmw-8-series,
+.coupe-chevrolet-camaro,
+.coupe-ford-mustang,
+.coupe-infiniti-q60 {
+  background-color: #333;
+  border: 2px solid #fff;
+  color: #fff;
+  max-width: 100%;
+  height: 1110px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.coupe-audi-a5 h1,
+.coupe-bmw-4-series h1,
+.coupe-lexus-lc h1,
+.coupe-honda-civic h1,
+.coupe-audi-s5 h1,
+.coupe-chevrolet-corvette h1,
+.coupe-bmw-8-series h1,
+.coupe-chevrolet-camaro h1,
+.coupe-ford-mustang h1,
+.coupe-infiniti-q60 h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.coupe-audi-a5 img,
+.coupe-bmw-4-series img,
+.coupe-lexus-lc img,
+.coupe-honda-civic img,
+.coupe-audi-s5 img,
+.coupe-chevrolet-corvette img,
+.coupe-bmw-8-series img,
+.coupe-chevrolet-camaro img,
+.coupe-ford-mustang img,
+.coupe-infiniti-q60 img {
+  float: center;
+  width: 500px;
+  height: 400px;
+  padding: 10px 5px 20px 20px;
+}
+
+.coupe-audi-a5 p,
+.coupe-bmw-4-series p,
+.coupe-lexus-lc p,
+.coupe-honda-civic p,
+.coupe-audi-s5 p,
+.coupe-chevrolet-corvette p,
+.coupe-bmw-8-series p,
+.coupe-chevrolet-camaro p,
+.coupe-ford-mustang p,
+.coupe-infiniti-q60 p {
+  padding: 10px;
+}
+
+.coupe-audi-a5 ul,
+.coupe-bmw-4-series ul,
+.coupe-lexus-lc ul,
+.coupe-honda-civic ul,
+.coupe-audi-s5 ul,
+.coupe-chevrolet-corvette ul,
+.coupe-bmw-8-series ul,
+.coupe-chevrolet-camaro ul,
+.coupe-ford-mustang ul,
+.coupe-infiniti-q60 ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

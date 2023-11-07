@@ -1,0 +1,24 @@
+.photo {
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  max-width: 100%;
+  height: 500px;
+  padding: 0;
+  margin: 0p;
+  animation: car 8s infinite ease-in-out;
+}
+
+@keyframes car {
+  0% {
+    background-image: url(../assets/images/Lincoln_2019_Continental_80th_Anniversary_Coach_563984_3600x2400.jpg);
+  }
+
+  50% {
+    background-image: url(../assets/images/8f35ba26fe296e36b3a96ee5416259b4.jpg);
+  }
+
+  100% {
+    background-image: url(../assets/images/Ford_Mustang_2018_Ecoboost_Convertible_Blue_547460_1920x1080.jpg);
+  }
+}

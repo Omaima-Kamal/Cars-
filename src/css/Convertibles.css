@@ -1,0 +1,111 @@
+.convertibles-photo {
+    background-image: url(../assets/images/typeOfCars/convertibles/Best-Convertible-Cars-0-Hero-1087x725.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 98%;
+    max-width: 100%;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+.convertibles-photo h1 {
+    font-size: 60px;
+    color: #CCC;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+.convertibles-container .convertibles-car {
+    padding: 5px;
+    margin: auto
+}
+
+.audi-a5 {
+    background-color: #333;
+    border: 2px solid #ddd;
+    color: #FFF;
+    max-width: 100%;
+    height: 200;
+    margin: 40px 100px 0;
+    padding: 20px;
+}
+
+.audi-a5 h1,
+.bmw-4 h1,
+.chevrolet-corvette h1,
+.bmw-z4 h1,
+.audi-s5 h1,
+.bmw-8 h1,
+.mazda-mx-5 h1,
+.audi-a3 h1,
+.chevrolet-camaro h1,
+.ford-mustang h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px
+}
+
+.audi-a5 p,
+.bmw-4 p,
+.chevrolet-corvette p,
+.bmw-z4 p,
+.audi-s5 p,
+.bmw-8 p,
+.mazda-mx-5 p,
+.audi-a3 p,
+.chevrolet-camaro p,
+.ford-mustang p {
+    float: left;
+}
+
+.audi-a5 img,
+.bmw-4 img,
+.mazda-mx-5 img,
+.audi-a3 img,
+.bmw-z4 img,
+.bmw-8 img,
+.chevrolet-corvette img,
+.audi-s5 img,
+.chevrolet-camaro img,
+.ford-mustang img {
+    float: right;
+    width: 500px;
+    height: 400px;
+    padding: 10px 10px;
+}
+
+.audi-a5 ul,
+.bmw-4 ul,
+.chevrolet-corvette ul,
+.bmw-z4 ul,
+.audi-s5 ul,
+.bmw-8 ul,
+.mazda-mx-5 ul,
+.audi-a3 ul,
+.chevrolet-camaro ul,
+.ford-mustang ul {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.bmw-4,
+.chevrolet-corvette,
+.bmw-z4,
+.audi-s5,
+.bmw-8,
+.mazda-mx-5,
+.audi-a3,
+.chevrolet-camaro,
+.ford-mustang {
+    background-color: #333;
+    border: 2px solid #FFF;
+    color: #FFF;
+    max-width: 100%;
+    height: 200;
+    margin: 50px 100px;
+    padding: 20px;
+}

@@ -1,0 +1,78 @@
+.hatchbacks-container .car {
+    padding: 5px;
+    margin: auto
+}
+
+.hyundai-ioniq,
+.toyota-prius-prime,
+.kia-soul,
+.toyota-prius,
+.hyundai-veloster,
+.audi-a7,
+.mazda-mazda3-hatchbacks,
+.toyota-corolla-hatchback,
+.volkswagen-arteon,
+.volkswagen-golf {
+    background-color: #333;
+    color: #FFF;
+    max-width: 100%;
+    height: 200
+}
+
+.hyundai-ioniq h1,
+.toyota-prius-prime h1,
+.kia-soul h1,
+.mazda-mazda3-hatchbacks h1,
+.toyota-corolla-hatchback h1,
+.volkswagen-arteon h1,
+.volkswagen-golf h1,
+.toyota-prius h1,
+.hyundai-veloster h1,
+.audi-a7 h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px
+}
+
+.hyundai-ioniq img,
+.toyota-prius-prime img,
+.kia-soul img,
+.mazda-mazda3-hatchbacks img,
+.toyota-corolla-hatchback img,
+.volkswagen-arteon img,
+.volkswagen-golf img,
+.toyota-prius img,
+.hyundai-veloster img,
+.audi-a7 img {
+    float: center;
+    width: 500px;
+    height: 400px;
+    padding: 10px 5px 20px 20px
+}
+
+.hyundai-ioniq p,
+.toyota-prius-prime p,
+.kia-soul p,
+.mazda-mazda3-hatchbacks p,
+.toyota-corolla-hatchback p,
+.volkswagen-arteon p,
+.volkswagen-golf p,
+.toyota-prius p,
+.hyundai-veloster p,
+.audi-a7 p {
+    padding: 10px;
+}
+
+.hyundai-ioniq ul,
+.toyota-prius-prime ul,
+.kia-soul ul,
+.mazda-mazda3-hatchbacks ul,
+.toyota-corolla-hatchback ul,
+.volkswagen-arteon ul,
+.volkswagen-golf ul,
+.toyota-prius ul,
+.hyundai-veloster ul,
+.audi-a7 ul {
+    padding-top: 20px;
+    padding-bottom: 20px
+}

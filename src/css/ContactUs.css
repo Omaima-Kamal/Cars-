@@ -1,0 +1,54 @@
+.contact-us {
+  background: url(../assets/images/moment-photo-0cb4f4b3.webp) no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 300px;
+  text-align: center;
+}
+
+.contact-us .fields {
+  background-color: rgba(9, 9, 9, 0.5);
+  color: #ddd;
+  min-height: 300px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contact-us h1 {
+  margin-bottom: 5px;
+}
+.contact-us p {
+  margin-bottom: 40px;
+}
+.contact-us textarea {
+  height: 108px;
+}
+.contact-us input[type="text"] {
+  background-color: rgba(82, 78, 78, 0.4);
+  color: #fff;
+  border: none;
+  width: 350px;
+  height: 30px;
+  margin: 5px;
+}
+
+.contact-us textarea {
+  background-color: rgba(82, 78, 78, 0.4);
+  color: #fff;
+  border: none;
+  width: 350px;
+  margin: 5px;
+}
+
+.contact-us button {
+  border: none; /* Remove borders */
+  color: #fff; /* Add a text color */
+  width: 150px;
+  padding: 10px 15px; /* Add some padding */
+  margin: 5px;
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+  background-color: #f00;
+}
